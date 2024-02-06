@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @braek5414
 - 👀 I’m interested in video game design and VR
 - 🌱 I’m currently learning C/C#/C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite fruit is pineapple!
 
