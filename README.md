@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @braek5414
-- 👀 I’m interested in video game design and VR
-- 🌱 I’m currently learning C/C#/C++
+- 👋 Hi, I’m Braelin
+- 👀 I’m interested in video game design and cybersecurity. 
+- 🌱 I’m currently learning Java and C++.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite fruit is pineapple!
 
