@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Braelin
-- 👀 I’m interested in video game design and cybersecurity. 
-- 🌱 I’m currently learning Java and C++.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite fruit is pineapple!
+- Howdy, I’m Braelin 
+- I’m interested in network design, cybersecurity, and data aynaylstics
+- Fun fact: My favorite fruit is pineapple!
 
 <!---
 braek5414/braek5414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
