@@ -1,5 +1,5 @@
-- Howdy, I’m Braelin 
-- I’m interested in network design, cybersecurity, and data aynaylstics
+- Hello! I’m Braelin Kinsel!
+- I’m interested in network design, cybersecurity, and data analytics!
 - Fun fact: My favorite fruit is pineapple!
 
 <!---
